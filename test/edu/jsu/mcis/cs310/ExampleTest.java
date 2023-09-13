@@ -1,6 +1,7 @@
 package edu.jsu.mcis.cs310;
 import org.junit.*;
 
+
 import static org.junit.Assert.*;
 
 public class ExampleTest {
